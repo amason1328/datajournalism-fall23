@@ -18,9 +18,8 @@ This is my repository for Data Journalism at Medill for fall 2023.
 
 ## This is a table of the class
 
-================
 Name|Concentration
-================
+| ------- | ------- |
 Nicole | PPFA
 Meaghan | PPFA
 Annie | MIL
