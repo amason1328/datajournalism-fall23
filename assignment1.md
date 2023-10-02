@@ -41,3 +41,6 @@
   * How? The best elements were the most simplistic. The opening map is extremely powerful in showing, as you scroll and scroll, the crazy increase in Scientologist-owned properties.
   * Rate effectiveness on scale of 1-5. 3.5
     
+# Pitch
+
+A question I would like to answer is how lower-income communities in DC are supported, specifically in terms of mental health resources and access to affordable housing. Data could come from the Department of Human Services as well as think tank/non-profit research and community support groups. The story is timely now as politicians in the Capitol argue over dress codes and pay raises while many people in the same city are sleeping in the streets. Now is also a time when housing and budgeting for public services are being hotly contested. I would talk to DHS, DC Housing Counseling Services, DC Kids Count, the Department of Behavioral Health and people who live in impacted areas. 
