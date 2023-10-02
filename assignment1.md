@@ -38,6 +38,6 @@
 ## Creativity
 
 * Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you? Yes, most of the time. I felt that most of this was very well done and showed what people might be wondering about. However, I found the four smaller maps highlighting specific properties to be basically useless. It seems like a pretty big loss to have not included any graphics depicting spending.
-  * How?
+  * How? The best elements were the most simplistic. The opening map is extremely powerful in showing, as you scroll and scroll, the crazy increase in Scientologist-owned properties.
   * Rate effectiveness on scale of 1-5. 3.5
     
