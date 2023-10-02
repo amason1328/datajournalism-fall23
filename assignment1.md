@@ -2,7 +2,7 @@
 
 [Article: How Scientology doubled its downtown Clearwater footprint in 3 years](https://projects.tampabay.com/projects/2019/investigations/scientology-clearwater-real-estate/)
 
-## Clarity and Accuracy
+## Clarity and Accuracy 
 
 * Were you able to immediately identify the central insight the reporter was trying to communicate? 5
   * What was it? Scientology has doubled the amount of property it has in Clearwater, Florida in three years, threatening business owners and the city's economic strength. 
