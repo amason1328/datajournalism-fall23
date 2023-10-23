@@ -1,0 +1,6 @@
+I didn't use one of my datasets from the last assignment because I was having trouble finding where to access the csvs for the data they used. I found some spreadsheets from DC Health Matters, but they are super bare bones. Instead, I decided to use the [DC Census Economic Characteristics](https://opendata.dc.gov/datasets/DCGIS::acs-economic-characteristics-dc-census-tract/about) from Open Data. 
+To clean the data:
+- I removed the columns that I didn't need/want to look at.
+- I made a pivot table of the total population by ward and the Black population in each ward.
+- I used Excel to calculate the percentage of each ward that is Black. 
+The interesting question I'm asking is about poverty levels by race and ward. I haven't yet found a data set that I can go into with all of that info, so I decided to start by looking at race by ward. I was specifically focused on which wards have the highest percentages of Black residents. I knew already that Ward 8 is DC's poorest, so using the chart, I can see it is also one of the most predominantly Black wards.
